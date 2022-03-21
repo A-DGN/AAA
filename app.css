@@ -1,0 +1,15 @@
+.map__image{
+    width: 50%;
+    float: left;
+}
+
+.map__image path{
+    fill:#a4ced2;
+    stroke:#FFF;
+    stroke-width: 1px;
+}
+
+
+.map__list{
+    float: right;
+}
