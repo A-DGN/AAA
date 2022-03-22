@@ -1,17 +1,18 @@
+/*FRANCE PIC POSITION SETTINGS*/
 .map__image{
     width: 600px;
     height: 600px;
     float: left;
     margin-left: 300px;
 }
-
+/*FRANCE PIC COLOR SETTINGS*/
 .map__image path{
     fill:#d5e6e7;
     stroke:#FFF;
     stroke-width: 1px;
     transition: fill 0.15s,
 }
-
+/*2ND FRANCE PIC FOR COLOR EFFECT SETTINGS*/
 .map__image path:hover{
     fill: #7a69a8;
     stroke: #fff;
@@ -19,7 +20,7 @@
     transition: fill 0.15s;
 
 }
-
+/*MAP LIST SETTINGS*/
 .map__list{
     float: left;
     width: 15%;
